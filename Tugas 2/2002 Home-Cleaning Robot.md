@@ -1,0 +1,5 @@
+# **2002**
+## **Home-Cleaning Robot**
+### **Colin Angle (dates unavailable), Helen Greiner (b. 1967), Rodney Brooks (b. 1954)**
+
+**Roomba diciptakan oleh sebuah perusahaan bernama iRobot, didirikan pada tahun**  Kedatangan Roomba adalah salah satu contoh komersialisasi penelitian robotika yang paling awal dan mungkin paling terkenal untuk pasar konsumen. Versi awal Roomba membersihkan lantai dengan bergerak dalam serangkaian pola acak yang dirancang untuk menutupi sebagian besar ruangan, hampir sepanjang waktu. Pada tahun 2015, iRobot merilis Roomba berkemampuan Wi-Fi yang menggabungkan visi mesin dan algoritma navigasi robotik yang secara visual memetakan ruangan dan menentukan tempat Roomba di dalamnya, untuk pembersihan yang lebih efisien. Ada versi Roomba yang sengaja dirancang untuk bermain-main. Penggemar rumahan dapat menambahkan perangkat keras, perangkat lunak, dan sensor baru untuk fungsionalitas dan eksperimen tambahan. Sekarang siapa pun dapat meminta robot mengantarkan koran pagi dan menyajikan sarapan di tempat tidur.
